@@ -2,6 +2,7 @@ body{
 	font-family: "Marker Felt","Comic Sans MS", fantasy;
 	text-align:center;
 	color:black;
+	background:black;
 
        }
        h1{
@@ -12,6 +13,9 @@ body{
        h2{
        	color:purple;
        	text-align:center;
+       }
+       p{
+       	color:purple;
        }
 
 
